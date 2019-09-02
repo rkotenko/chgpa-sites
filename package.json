@@ -1,0 +1,22 @@
+{
+  "name": "chgpa-sites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rkotenko/chgpa-sites.git",
+  "author": "rkotenko <robkotenko@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "sass": "^1.22.10",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {
+    "ag-grid-community": "^21.2.0",
+    "ag-grid-vue": "^21.2.0",
+    "global": "^4.4.0",
+    "typescript": "^3.6.2",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3",
+    "vue-property-decorator": "^8.2.2"
+  }
+}
